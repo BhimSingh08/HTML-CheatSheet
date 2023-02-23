@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(91, 81, 81);
+    color:white;
+    height: 56px;
+}
+
+.basic-tags{
+    background-color: rgb(231, 171, 219);
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+
+.content{
+    font-family: 'Potta One', cursive;
+}
+.container{
+
+    width: 50vw;
+    padding: 32px 0;
+    margin: auto;
+    font-weight: bold;
+}
+
+.logo{
+    padding: 0 15px 0;
+
+}
+
+.logo img{
+    width: 32px;
+}
+.toolbar-item button{
+    cursor: pointer !important;
+    color: white !important;
+    border: 1px solid !important;
+    border-radius: 15px !important;
+    padding: 5px 14px !important;
+}
+
+.container-tag{
+    background-color: rgb(231, 171, 219);
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.text-formating-tag{
+    background-color: rgb(231, 171, 219);
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.list-tag{
+    background-color: rgb(231, 171, 219);
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.media-tag{
+    background-color: rgb(231, 171, 219);
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
